@@ -15,8 +15,3 @@ rhex() {
     fi
     openssl rand -hex "$size"
 }
-
-# ALIASES
-alias codium="com.vscodium.codium"
-alias gst="git status -s"
-alias ghw="gh repo view --web"
